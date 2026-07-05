@@ -1,0 +1,2 @@
+customtkinter>=5.2.0
+pypinyin>=0.51.0
